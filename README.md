@@ -1,10 +1,8 @@
 # personalityquiz
 Project for GWC Summer Immersion Program. I made a "Buzzfeed-style" quiz.
--
--
--
-(Copy and pasted from the project outlines from GWC)
+
 # Personality Quiz Starter Code
+(Copy and pasted from the project outlines from GWC)
 
 This is a place for you to start building your personality quiz!
 
